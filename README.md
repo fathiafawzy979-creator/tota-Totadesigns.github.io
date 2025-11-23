@@ -14,14 +14,18 @@ Professional portfolio showcasing my work in branding, social media design, and 
 - حملة مطعم **Jasto Restaurant Campaign**
 - الهوية البصرية الكاملة لشركة **High Fresh**
 - الهوية البصرية لشركة **EduSpark** للبرمجة والتكنولوجيا
+ - هوية بصرية كاملة واعلانات سوشيال ميديا لأكاديمية الفردوس الأعلى لحفظ القران الكريم.
+ - حملة اعلامية كاملة لعيادة **lussoo clinic** للعناية بالشرة والجسم
+  
 
 ---
 
 ## 🧰 الأدوات
 - Adobe Photoshop  
-- Adobe Illustrator  
-- Figma (UI/UX)  
-- Photo retouch & compositing  
+- Adobe Illustrator
+- Adobe After effect 
+- Photo retouch & compositing
+- DaVinci Resolve (Video Editing & Montage)    
 
 ---
 
